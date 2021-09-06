@@ -22,6 +22,7 @@
 .site-header__left {
     display: flex;
     align-items: center;
+    marging-right: auto;
 }
 
 .site-header__right{
